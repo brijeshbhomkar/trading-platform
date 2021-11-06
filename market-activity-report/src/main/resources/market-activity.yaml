@@ -1,0 +1,12 @@
+openapi: 3.0.0
+info:
+  title: "Market Activity Report Service Project"
+  contact:
+    name: "Brijesh Bhomkar"
+    url:  ""
+    email: "Brijesh.Bhomkar@gmail.com"
+  description: "Market Activity Report Service"
+  version: "1.0.0"
+
+paths:
+  /get:

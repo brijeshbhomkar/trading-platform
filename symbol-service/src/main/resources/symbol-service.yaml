@@ -1,0 +1,17 @@
+openapi: 3.0.0
+info:
+  title: "Symbol Service Project"
+  contact:
+    name: "Brijesh Bhomkar"
+    url:  ""
+    email: "Brijesh.Bhomkar@gmail.com"
+  description: "Symbol service maintain NSE/BSE symbols"
+  version: "1.0.0"
+
+paths:
+  /get:
+
+
+
+
+
